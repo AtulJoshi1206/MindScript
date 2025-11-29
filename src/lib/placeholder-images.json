@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "login-background",
+      "description": "Calm, serene landscape with soft light, suitable for a mental wellness app's login screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1671760428190-d95979dcda62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYWxtJTIwbGFuZHNjYXBlfGVufDB8fHx8MTc2NDQwODYzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "calm landscape"
+    }
+  ]
 }
